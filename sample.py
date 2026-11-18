@@ -1,3 +1,5 @@
 print("Hello World")
 print("I am learning Python")
 print("I am learning HTML and CSS")
+print("I am learning JavaScript")
+print("I am learning React")
